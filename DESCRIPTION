@@ -10,6 +10,4 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Depends:
-    sdmpredictors,
-    rOceans
 RoxygenNote: 6.0.1
