@@ -1,0 +1,15 @@
+Package: rOceansData
+Type: Package
+Title: Data Package of Spatial Trends in Marine Biodiversity and Environmental Drivers 
+Version: 0.1.0
+Author: person("Ignasi", "Montero-Serra", email = "monteroserra@gmail.com",
+        role = c("aut", "cre"))
+Maintainer: I. Montero-Serra <monteroserra@gmail.com>
+Description: This packages contain data on spatial occurrences for marine benthic species and environmental drivers
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends:
+    sdmpredictors,
+    rOceans
+RoxygenNote: 6.0.1
